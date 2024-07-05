@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1a.jpg";
+import project2 from "../assets/projects/project-2a.png";
+import project3 from "../assets/projects/project-3a.png";
+import project4 from "../assets/projects/project-4a.png";
 
 import macsLogo from "../assets/logos/macs-logo.jpg";
 import ieeeLogo from "../assets/logos/ieee-logo.jpg";
@@ -11,12 +11,12 @@ export const HERO_CONTENT = `I am a dedicated SWE student with a strong foundati
 
 Currently, I am focused on projects in quantum machine learning, blending theory with practical applications.
 
-My tech stack includes React, Next.js for front-end, and Node.js with MySQL, PostgreSQL, and MongoDB for backend. I'm also learning Docker for containerization, Pandas for data manipulation, and enhancing my skills in PostgreSQL.
+I have started my journey in front-end development with React, Next.js. I'm also learning Docker for containerization, Pandas for data manipulation, and enhancing my skills in PostgreSQL.
 
 My goal is to leverage this diverse skill set to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 
-export const ABOUT_TEXT = "Hello! I'm Aditya, a dedicated student at Delhi Technological University (DTU) where I've consistently achieved top academic honors, including perfect SGPAs and top ranks. Beyond academics, I thrive on challenges and competition, whether it's excelling in sports like badminton or achieving top-three finishes in numerous quiz competitions across Delhi. I'm driven by a passion for excellence and innovation, which reflects in my participation in hackathons and my proactive role in mentoring through programs like the Delhi Government's Desh ke Mentor. In tech societies and IEEE DTU, I'm deeply engaged in cryptography, network security, and algorithm design—areas where I'm known for my curiosity, collaborative spirit, and commitment to continuous learning."
+export const ABOUT_TEXT = "Hello! I'm Aditya, a dedicated student at Delhi Technological University (DTU) where I've consistently achieved top academic honors, including perfect SGPAs and top ranks. Beyond academics, I thrive on challenges and competition, whether it's excelling in sports like badminton or achieving top-three finishes in numerous quiz competitions across Delhi. I'm driven by a passion for excellence and innovation, which reflects in my participation in hackathons and my proactive role in mentoring through programs like the Delhi Government's Desh ke Mentor. In tech societies I am known for my curiosity, collaborative spirit, and commitment to continuous learning."
 
 export const EXPERIENCES = [
   {
