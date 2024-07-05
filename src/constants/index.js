@@ -76,7 +76,7 @@ export const PROJECTS = [
     github: "https://github.com/Adi30TyaDTU/SnakeGame",
   },
   {
-    title: "Blogging Platform",
+    title: "Selection Sort Visualizer",
     image: project4,
     description: "Crafted a dynamic Selection Sort algorithm in C, enriched with interactive visualizations to vividly illustrate sorting principles. Designed for real-time display of sorting processes, utilizing C programming and specialized libraries for engaging user experiences. Praised for its clarity and impact in demystifying complex algorithms through visual storytelling. Future plans involve expanding the project with diverse sorting algorithms to deepen insights into computational logic and enhance educational immersion in algorithmic thinking.",
     technologies: ["C-Language", "ANSI Codes", "Windows.h-Library"],
