@@ -23,7 +23,7 @@ export const EXPERIENCES = [
     year: "July 2024 - Present",
     role: "Research Intern(Ongoing)",
     company: "Scientific Analysis Group (SAG), DRDO.",
-    description: `Planning to nnovate predictive models using quantum support vector machines, improving solar irradiation accuracy by 30%, and
+    description: `Planning to innovate predictive models using quantum support vector machines, improving solar irradiation accuracy by 30%, and
 providing more reliable data for optimizing solar energy harvest and efficiency in sustainable energy initiatives.
  Executing simulations using Python and Qiskit.`,
     technologies: ["Python", "Qiskit", "Scikit-learn ", "Pandas"],
